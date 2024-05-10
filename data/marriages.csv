@@ -1,0 +1,174 @@
+,ActorID,Spouse,From,To
+0,0,Hanna Ralph,1919,1921
+1,0,Lucie Höflich,1921,1921
+2,0,Gussy Holl,1923,
+3,1,Viola Caldwell,1911,1913
+4,1,Winifred Bryson,1918,
+5,2,Florence Montgomery,1899,
+6,3,Doris Rankin,1904,1922
+7,3,Irene Fenwick,1923,1936
+8,4,Gloria Swanson,1916,1918
+9,4,Rita Gilman,1924,1939
+10,5,Ellis Baker,1921,1927
+11,5,Florence Eldridge,1927,
+12,6,Elsa Lanchester,1929,
+13,7,Josephine Dillon,1924,1930
+14,7,Maria Langham,1931,1939
+15,7,Carole Lombard,1939,1942
+16,7,Sylvia Ashley,1949,1952
+17,7,Kay Williams,1955,
+18,8,Enid Lamont,1919,1942
+19,8,Suzanne M. Brueggeman,1943,1948
+20,8,Margaret Pumphrey,1948,
+21,9,Bella Finkel,1921,
+22,10,Louise Treadwell,1923,1933
+23,11,Ella Annesley,1929,1946
+24,11,Renée Asherson,1953,
+25,12,Gloria Hatrick McLean,1949,1994
+26,13,Veronica Balfe,1933,
+27,14,Frances Willard Vernon,1922,
+28,15,"Gizella ""Daisy"" Benes",1927,1962
+29,15,Annette M. Driesens,1963,
+30,16,Dixie Lee,1930,1952
+31,16,Kathryn Grant,1957,
+32,17,Muriel Weber,1932,
+33,18,Thelma Raye,1920,1934
+34,18,Benita Hume,1938,
+35,19,Jill Esmond,1930,1940
+36,19,Vivien Leigh,1940,1960
+37,19,Joan Plowright,1961,
+38,20,Kay Griffith,1940,1957
+39,20,Joan Tabor,1962,1967
+40,20,Mary Alice Moore,1973,
+41,21,Uta Hagen,1938,1948
+42,21,Phyllis Hill,1948,1953
+43,21,Rosemary Clooney,1953,1961
+44,21,,1964,1967
+45,21,Stella Magee,1977,
+46,22,Helen Menken,1926,1927
+47,22,Mary Philips,1928,1937
+48,22,Mayo Methot,1938,1945
+49,22,Lauren Bacall,1945,
+50,23,Brenda Marshall,1941,1971
+51,24,Anna Kashfi,1957,1959
+52,24,Movita Castaneda,1960,1968
+53,24,Tarita Teriipaia,1962,1972
+54,25,Rhoda Kemins,1949,1958
+55,25,Katy Jurado,1959,1963
+56,25,Ethel Merman,1964,1964
+57,25,Donna Rancourt,1965,1972
+58,25,Tova Traesnaes,1973,
+59,26,Virginia Gilmore,1944,1960
+60,26,Doris Kleiner,1960,1967
+61,26,Jacqueline Thion de la Chaume,1971,1981
+62,26,Kathy Lee,1983,
+63,27,Merula Salaman,1938,
+64,28,Primula Susan Rollo,1940,1946
+65,28,Hjördis Genberg,1948,
+66,29,Lydia Clarke,1944,
+67,30,June Ernst,1935,1946
+68,30,Norma Anderson,1946,1969
+69,30,Susan Martin,1990,
+70,31,Natalya Andrejchenko,1985,2005
+71,31,Iva Mihanovic,2013,
+72,32,Greta Kukkonen,1942,1955
+73,32,Veronique Passani,1955,
+74,33,Juanita Hardy,1950,1965
+75,33,Joanna Shimkus,1976,
+76,34,Noel Margery Colette-Thomas,1934,1942
+77,34,Lilli Palmer,1943,1957
+78,34,Kay Kendall,1957,1959
+79,34,Rachel Roberts,1962,1971
+80,34,Elizabeth Rees-Williams,1971,1975
+81,34,Mercia Tinker,1979,
+82,35,Betty Ebeling,1952,1967
+83,35,Pamela Feeley,1970,
+84,36,Joy Parker,1943,
+85,38,Cynthia Stone,1957,1959
+86,38,Dina Merrill,1966,1989
+87,39,Josephine Saenz,1933,1945
+88,39,Esperanza Baur,1946,1954
+89,39,Pilar Pallete,1954,
+90,40,Carolyn Hughes,1951,1955
+91,40,Patricia Reed,1955,1960
+92,40,Colleen Dewhurst,1960,1965
+93,40,,1967,1972
+94,40,Trish Van Devere,1972,
+95,41,Faye Maltese,1956,1986
+96,41,Betsy Arakawa,1991,
+97,42,Cynthia Stone,1950,1956
+98,42,Felicia Farr,1962,
+99,43,Jean Myers,1940,1965
+100,43,,1980,
+101,43,Barbara Isaac,1966,1977
+102,44,Sandra Knight,1962,1968
+103,45,Tamara Tchinarova,1943,1959
+104,45,Yolande Turner,1959,1965
+105,45,Eletha Barrett,1973,
+106,46,Jeramie Rain,1983,1995
+107,46,Janelle Lacey,1999,2005
+108,46,Svetlana Erokhin,2006,
+109,47,Lauri Peters,1962,1967
+110,47,Marcheline Bertrand,1971,1980
+111,48,Anne Byrne,1969,1980
+112,48,Lisa Gottsegen,1980,
+113,49,Diahnne Abbott,1976,1988
+114,49,Grace Hightower,1997,2018
+115,50,Margaret Sullavan,1931,1933
+116,50,Frances Ford Seymour,1936,1950
+117,50,Susan Blanchard,1950,1956
+118,50,Afdera Franchetti,1957,1961
+119,50,Shirlee Mae Adams,1965,
+120,51,Angela Morant,1966,1976
+121,51,Alison Sutcliffe,1978,1992
+122,51,Alexandra Christmann,2003,2005
+123,51,Daniela Lavender,2007,
+124,52,Barbara Benjamin Marcus,1964,1981
+125,52,Gail Youngs,1982,1986
+126,52,Sharon Brophy,1991,1995
+127,52,Luciana Pedraza,2005,
+128,53,Kate Hannan,1962,2022
+129,54,Mary Beth Supinger,1971,1982
+130,54,Heidi Henderson,1989,1993
+131,55,Jackie Witte,1949,1958
+132,55,Joanne Woodward,1958,
+133,56,Diandra Luker,1977,2000
+134,56,Catherine Zeta-Jones,2000,
+135,57,Rebecca Miller,1996,
+136,58,Julie Hallam,1969,1969
+137,58,Sinéad Cusack,1978,
+138,59,Petronella Barker,1966,1972
+139,59,Jennifer Lynton,1973,2002
+140,59,Stella Arroyave,2003,
+141,61,Samantha Lewes,1978,1987
+142,61,Rita Wilson,1988,
+143,62,Patricia Arquette,1995,2001
+144,62,Lisa Marie Presley,2002,2004
+145,62,Alice Kim,2004,2016
+146,62,Erika Koike,2019,2019
+147,62,Riko Shibata,2021,
+148,63,Jane Menelaus,1988,
+149,64,Nicoletta Braschi,1991,
+150,66,Danielle Spencer,2003,2018
+151,67,Pauletta Pearson,1983,
+152,69,Madonna,1985,1989
+153,69,Robin Wright,1996,2010
+154,69,Leila George,2020,2022
+155,72,Keisha Nash,1996,2021
+156,73,Susan Geston,1977,
+157,74,Livia Giuggioli,1997,2021
+158,75,Gaëlle Demars,2003,
+159,75,Alexandra Lamy,2009,2014
+160,75,Nathalie Péchalat,2018,
+161,76,Camila Alves,2012,
+162,77,Hannah Bagshawe,2014,
+163,79,Summer Phoenix,2006,2017
+164,80,Lesley Manville,1987,1990
+165,80,Uma Thurman,1990,1992
+166,80,Donya Fiorentino,1997,2001
+167,80,Alexandra Edenborough,2008,2015
+168,80,Gisele Schmidt,2017,
+169,83,Sheree Zampino,1992,1995
+170,83,Jada Pinkett,1997,2016
+171,84,Afton Smith,1998,2009
+172,85,Yvonne McGuinness,2004,

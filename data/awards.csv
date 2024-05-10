@@ -1,0 +1,98 @@
+,Date,ActorID,Actor,Role(s),Film,Link,Born,Died,Birthplace,Deathplace,Children
+0,1929-05-16,0,Emil Jannings,"Grand Duke Sergius Alexander, August Schilling","The Last Command, The Way of All Flesh",/wiki/Emil_Jannings,1884-07-23,1950-01-02,"Rorschach, Switzerland","Strobl, Allied-occupied Austria",1
+1,1930-04-03,1,Warner Baxter,The Cisco Kid,In Old Arizona,/wiki/Warner_Baxter,1889-03-29,1951-05-07,"Columbus, Ohio, U.S.","Beverly Hills, California, U.S.",0
+2,1930-11-05,2,George Arliss,Benjamin Disraeli,Disraeli,/wiki/George_Arliss,1868-04-10,1946-02-05,"London, England","London, England",0
+3,1931-11-10,3,Lionel Barrymore,Stephen Ashe,A Free Soul,/wiki/Lionel_Barrymore,1878-04-28,1954-11-15,"Philadelphia, Pennsylvania, U.S.","Los Angeles, California, U.S.",2
+4,1932-11-18,4,Wallace Beery,"Andy ""Champ"" Purcell",The Champ,/wiki/Wallace_Beery,1885-04-01,1949-04-15,"Clay County, Missouri, U.S.","Beverly Hills, California, U.S.",1
+5,1932-11-18,5,Fredric March,Dr. Henry Jekyll / Mr. Edward Hyde,Dr. Jekyll and Mr. Hyde,/wiki/Fredric_March,1897-08-31,1975-04-14,"Racine, Wisconsin, U.S.","Los Angeles, California, U.S.",2
+6,1934-03-16,6,Charles Laughton,King Henry VIII,The Private Life of Henry VIII,/wiki/Charles_Laughton,1899-07-01,1962-12-15,"Scarborough, North Riding of Yorkshire, England","Hollywood, California, U.S.",0
+7,1935-02-27,7,Clark Gable,Peter Warne,It Happened One Night,/wiki/Clark_Gable,1901-02-01,1960-11-16,"Cadiz, Ohio, U.S.","Los Angeles, California, U.S.",2
+8,1936-03-05,8,Victor McLaglen,Gypo Nolan,The Informer,/wiki/Victor_McLaglen,1886-12-10,1959-11-07,"Tunbridge Wells, Kent or Stepney, East London, U.K.","Newport Beach, California, U.S.",3
+9,1937-03-04,9,Paul Muni,Louis Pasteur,The Story of Louis Pasteur,/wiki/Paul_Muni,1895-09-22,1967-08-25,"Lemberg, Austro-Hungarian Empire(now Lviv, Ukraine)","Montecito, California, U.S.",0
+10,1938-03-10,10,Spencer Tracy,Manuel Fidello,Captains Courageous,/wiki/Spencer_Tracy,1900-04-05,1967-06-10,"Milwaukee, Wisconsin, U.S.","Beverly Hills, California, U.S.",2
+11,1939-02-23,10,Spencer Tracy,Father Edward Flanagan,Boys Town,/wiki/Spencer_Tracy,1900-04-05,1967-06-10,"Milwaukee, Wisconsin, U.S.","Beverly Hills, California, U.S.",2
+12,1940-02-29,11,Robert Donat,Charles Edward Chipping,"Goodbye, Mr. Chips",/wiki/Robert_Donat,1905-03-18,1958-06-09,"Withington, Manchester, England","London, England",3
+13,1941-02-27,12,James Stewart,"Macaulay ""Mike"" Connor",The Philadelphia Story,/wiki/James_Stewart,1908-05-20,1997-07-02,"Indiana, Pennsylvania, U.S.","Beverly Hills, California, U.S.",4
+14,1942-02-26,13,Gary Cooper,Sgt. Alvin York,Sergeant York,/wiki/Gary_Cooper,1901-05-07,1961-05-13,"Helena, Montana, U.S.","Los Angeles, California, U.S.",1
+15,1943-03-04,14,James Cagney,George M. Cohan,Yankee Doodle Dandy,/wiki/James_Cagney,1899-07-17,1986-03-30,"New York City, U.S.","Stanford, New York, U.S.",2
+16,1944-03-02,15,Paul Lukas,Kurt Muller,Watch on the Rhine,/wiki/Paul_Lukas,1894-05-26,1971-08-15,"Budapest, Austria-Hungary","Tangier, Morocco",0
+17,1945-03-15,16,Bing Crosby,Father Chuck O'Malley,Going My Way,/wiki/Bing_Crosby,1903-05-03,1977-10-14,"Tacoma, Washington, U.S.","Alcobendas, Spain",7
+18,1946-03-07,17,Ray Milland,Don Birnam,The Lost Weekend,/wiki/Ray_Milland,1907-01-03,1986-03-10,"Neath, Glamorgan, Wales","Torrance, California, U.S.",2
+19,1947-03-13,5,Fredric March,Platoon Sergeant Al Stephenson,The Best Years of Our Lives,/wiki/Fredric_March,1897-08-31,1975-04-14,"Racine, Wisconsin, U.S.","Los Angeles, California, U.S.",2
+20,1948-03-20,18,Ronald Colman,Anthony John,A Double Life,/wiki/Ronald_Colman,1891-02-09,1958-05-19,"Richmond, Surrey, England, UK","Santa Barbara, California, US",1
+21,1949-03-24,19,Laurence Olivier,"Hamlet, Prince of Denmark",Hamlet,/wiki/Laurence_Olivier,1907-05-22,1989-07-11,"Dorking, Surrey, England","Steyning, West Sussex, England",4
+22,1950-03-23,20,Broderick Crawford,Willie Stark,All the King's Men,/wiki/Broderick_Crawford,1911-12-09,1986-04-26,"Philadelphia, Pennsylvania, U.S.","Rancho Mirage, California, U.S.",2
+23,1951-03-29,21,José Ferrer,Cyrano de Bergerac,Cyrano de Bergerac,/wiki/Jos%C3%A9_Ferrer,1912-01-08,1992-01-26,"San Juan, Puerto Rico","Coral Gables, Florida, U.S.",6
+24,1952-03-20,22,Humphrey Bogart,Charlie Allnut,The African Queen,/wiki/Humphrey_Bogart,1899-12-25,1957-01-14,"New York City, U.S.","Los Angeles, California, U.S.",2
+25,1953-03-19,13,Gary Cooper,Marshal Will Kane,High Noon,/wiki/Gary_Cooper,1901-05-07,1961-05-13,"Helena, Montana, U.S.","Los Angeles, California, U.S.",1
+26,1954-03-25,23,William Holden,Sgt. J.J. Sefton,Stalag 17,/wiki/William_Holden,1918-04-17,1981-11-12,"O'Fallon, Illinois, U.S.","Santa Monica, California, U.S.",4
+27,1955-03-30,24,Marlon Brando,Terry Malloy,On the Waterfront,/wiki/Marlon_Brando,1924-04-03,2004-07-01,"Omaha, Nebraska, U.S.","Los Angeles, California",11
+28,1956-03-21,25,Ernest Borgnine,Marty Piletti,Marty,/wiki/Ernest_Borgnine,1917-01-24,2012-07-08,"Hamden, Connecticut, U.S.","Los Angeles, California, U.S.",4
+29,1957-03-27,26,Yul Brynner,King Mongkut of Siam,The King and I,/wiki/Yul_Brynner,1920-07-11,1985-10-10,"Vladivostok, Far Eastern Republic","New York City, U.S.",5
+30,1958-03-26,27,Alec Guinness,Colonel Nicholson,The Bridge on the River Kwai,/wiki/Alec_Guinness,1914-04-02,2000-08-05,"Maida Vale, London, England","Midhurst, West Sussex, England",1
+31,1959-04-06,28,David Niven,Major Angus Pollock,Separate Tables,/wiki/David_Niven,1910-03-01,1983-07-29,"Victoria, London, England","Château-d'Œx, Switzerland",4
+32,1960-04-04,29,Charlton Heston,Judah Ben-Hur,Ben-Hur,/wiki/Charlton_Heston,1923-10-04,2008-04-05,"Wilmette, Illinois, U.S.","Beverly Hills, California, U.S.",2
+33,1961-04-17,30,Burt Lancaster,Elmer Gantry,Elmer Gantry,/wiki/Burt_Lancaster,1913-11-02,1994-10-20,"New York City, U.S.","Los Angeles, U.S.",5
+34,1962-04-09,31,Maximilian Schell,Hans Rolfe,Judgment at Nuremberg,/wiki/Maximilian_Schell,1930-12-08,2014-02-01,"Vienna, Austria","Innsbruck, Austria",1
+35,1963-04-08,32,Gregory Peck,Atticus Finch,To Kill a Mockingbird,/wiki/Gregory_Peck,1916-04-05,2003-06-12,"San Diego, California, U.S.","Los Angeles, California, U.S.",5
+36,1964-04-13,33,Sidney Poitier,Homer Smith,Lilies of the Field,/wiki/Sidney_Poitier,1927-02-20,2022-01-06,"Miami, Florida, U.S.","Beverly Hills, California, U.S.",6
+37,1965-04-05,34,Rex Harrison,Professor Henry Higgins,My Fair Lady,/wiki/Rex_Harrison,1908-03-05,1990-06-02,"Huyton, Lancashire, England","New York City, U.S.",2
+38,1966-04-18,35,Lee Marvin,Kid Shelleen & Tim Strawn,Cat Ballou,/wiki/Lee_Marvin,1924-02-19,1987-08-29,"New York City, U.S.","Tucson, Arizona, U.S.",4
+39,1967-04-10,36,Paul Scofield,Sir Thomas More,A Man for All Seasons,/wiki/Paul_Scofield,1922-01-21,2008-03-19,"Birmingham, Warwickshire, England","Brighton, East Sussex, England",2
+40,1968-04-10,37,Rod Steiger,Bill Gillespie,In the Heat of the Night,/wiki/Rod_Steiger,1925-04-14,2002-07-09,"Westhampton, New York, U.S.","Los Angeles, California, U.S.",0
+41,1969-04-14,38,Cliff Robertson,Charly Gordon,Charly,/wiki/Cliff_Robertson,1923-09-09,2011-09-10,"San Diego, California, U.S.","Stony Brook, New York, U.S.",2
+42,1970-04-07,39,John Wayne,"Reuben ""Rooster"" Cogburn",True Grit,/wiki/John_Wayne,1907-05-26,1979-06-11,"Winterset, Iowa, U.S.","Los Angeles, California, U.S.",7
+43,1971-04-15,40,George C. Scott,General George S. Patton Jr.,Patton,/wiki/George_C._Scott,1927-10-18,1999-09-22,"Wise, Virginia, U.S.","Westlake Village, California, U.S.",7
+44,1972-04-10,41,Gene Hackman,"Jimmy ""Popeye"" Doyle",The French Connection,/wiki/Gene_Hackman,1930-01-30,,"San Bernardino, California, U.S.",,3
+45,1973-03-27,24,Marlon Brando,Vito Corleone,The Godfather,/wiki/Marlon_Brando,1924-04-03,2004-07-01,"Omaha, Nebraska, U.S.","Los Angeles, California",11
+46,1974-04-02,42,Jack Lemmon,Harry Stoner,Save the Tiger,/wiki/Jack_Lemmon,1925-02-08,2001-06-27,"Newton, Massachusetts, U.S.","Los Angeles, California, U.S.",2
+47,1975-04-08,43,Art Carney,Harry Coombes,Harry and Tonto,/wiki/Art_Carney,1918-11-04,2003-11-09,"Mount Vernon, New York, U.S.","Chester, Connecticut, U.S.",3
+48,1976-03-29,44,Jack Nicholson,Randle Patrick McMurphy,One Flew Over the Cuckoo's Nest,/wiki/Jack_Nicholson,1937-04-22,,"Neptune City, New Jersey, U.S.",,6
+49,1977-03-28,45,Peter Finch,Howard Beale,Network,/wiki/Peter_Finch,1916-09-28,1977-01-14,"South Kensington, London, England","Beverly Hills, California, U.S.",4
+50,1978-04-03,46,Richard Dreyfuss,Elliot Garfield,The Goodbye Girl,/wiki/Richard_Dreyfuss,1947-10-29,,"New York City, U.S.",,3
+51,1979-04-09,47,Jon Voight,Luke Martin,Coming Home,/wiki/Jon_Voight,1938-12-29,,"Yonkers, New York, U.S.",,2
+52,1980-04-14,48,Dustin Hoffman,Ted Kramer,Kramer vs. Kramer,/wiki/Dustin_Hoffman,1937-08-08,,"Los Angeles, California, U.S.",,6
+53,1981-03-31,49,Robert De Niro,Jake LaMotta,Raging Bull,/wiki/Robert_De_Niro,1943-08-17,,"New York City, U.S.",,7
+54,1982-03-29,50,Henry Fonda,Norman Thayer Jr.,On Golden Pond,/wiki/Henry_Fonda,1905-05-16,1982-08-12,"Grand Island, Nebraska, U.S.","Los Angeles, California, U.S.",3
+55,1983-04-11,51,Ben Kingsley,Mahatma Gandhi,Gandhi,/wiki/Ben_Kingsley,1943-12-31,,"Snainton, North Riding of Yorkshire, England",,4
+56,1984-04-09,52,Robert Duvall,Mac Sledge,Tender Mercies,/wiki/Robert_Duvall,1931-01-05,,"San Diego, California, U.S.",,0
+57,1985-03-25,53,F. Murray Abraham,Antonio Salieri,Amadeus,/wiki/F._Murray_Abraham,1939-10-24,,"Pittsburgh, Pennsylvania, U.S.",,2
+58,1986-03-24,54,William Hurt,Luis Molina,Kiss of the Spider Woman,/wiki/William_Hurt,1950-03-20,2022-03-13,"Washington, D.C., U.S.","Portland, Oregon, U.S.",4
+59,1987-03-30,55,Paul Newman,"""Fast"" Eddie Felson",The Color of Money,/wiki/Paul_Newman,1925-01-26,2008-09-26,"Shaker Heights, Ohio, U.S.","Westport, Connecticut, U.S.",6
+60,1988-04-11,56,Michael Douglas,Gordon Gekko,Wall Street,/wiki/Michael_Douglas,1944-09-25,,"New Brunswick, New Jersey, U.S.",,3
+61,1989-03-29,48,Dustin Hoffman,Raymond Babbitt,Rain Man,/wiki/Dustin_Hoffman,1937-08-08,,"Los Angeles, California, U.S.",,6
+62,1990-03-26,57,Daniel Day-Lewis,Christy Brown,My Left Foot,/wiki/Daniel_Day-Lewis,1957-04-29,,"London, England",,3
+63,1991-03-25,58,Jeremy Irons,Claus von Bülow,Reversal of Fortune,/wiki/Jeremy_Irons,1948-09-19,,"Cowes, Isle of Wight, England",,2
+64,1992-03-30,59,Anthony Hopkins,Dr. Hannibal Lecter,The Silence of the Lambs,/wiki/Anthony_Hopkins,1937-12-31,,"Port Talbot, Glamorgan, Wales",,1
+65,1993-03-29,60,Al Pacino,Lt. Col. Frank Slade,Scent of a Woman,/wiki/Al_Pacino,1940-04-25,,"New York City, U.S.",,4
+66,1994-03-21,61,Tom Hanks,Andrew Beckett,Philadelphia,/wiki/Tom_Hanks,1956-07-09,,"Concord, California, U.S.",,4
+67,1995-03-27,61,Tom Hanks,Forrest Gump,Forrest Gump,/wiki/Tom_Hanks,1956-07-09,,"Concord, California, U.S.",,4
+68,1996-03-25,62,Nicolas Cage,Ben Sanderson,Leaving Las Vegas,/wiki/Nicolas_Cage,1964-01-07,,"Long Beach, California, U.S.",,3
+69,1997-03-24,63,Geoffrey Rush,David Helfgott,Shine,/wiki/Geoffrey_Rush,1951-07-06,,"Toowoomba, Queensland, Australia",,2
+70,1998-03-23,44,Jack Nicholson,Melvin Udall,As Good as It Gets,/wiki/Jack_Nicholson,1937-04-22,,"Neptune City, New Jersey, U.S.",,6
+71,1999-03-21,64,Roberto Benigni,Guido Orefice,Life Is Beautiful,/wiki/Roberto_Benigni,1952-10-27,,"Castiglion Fiorentino, Tuscany, Italy",,0
+72,2000-03-26,65,Kevin Spacey,Lester Burnham,American Beauty,/wiki/Kevin_Spacey,1959-07-26,,"South Orange, New Jersey, U.S.",,0
+73,2001-03-25,66,Russell Crowe,Maximus Decimus Meridius,Gladiator,/wiki/Russell_Crowe,1964-04-07,,"Wellington, New Zealand",,2
+74,2002-03-24,67,Denzel Washington,Detective Alonzo Harris,Training Day,/wiki/Denzel_Washington,1954-12-28,,"Mount Vernon, New York, U.S.",,4
+75,2003-03-23,68,Adrien Brody,Władysław Szpilman,The Pianist,/wiki/Adrien_Brody,1973-04-14,,"New York City, U.S.",,0
+76,2004-02-29,69,Sean Penn,Jimmy Markum,Mystic River,/wiki/Sean_Penn,1960-08-17,,"Santa Monica, California, U.S.",,2
+77,2005-02-27,70,Jamie Foxx,Ray Charles,Ray,/wiki/Jamie_Foxx,1967-12-13,,"Terrell, Texas, U.S.",,2
+78,2006-03-05,71,Philip Seymour Hoffman,Truman Capote,Capote,/wiki/Philip_Seymour_Hoffman,1967-07-23,2014-02-02,"Fairport, New York, U.S.","New York City, U.S.",3
+79,2007-02-25,72,Forest Whitaker,Idi Amin,The Last King of Scotland,/wiki/Forest_Whitaker,1961-07-15,,"Longview, Texas, U.S.",,3
+80,2008-02-24,57,Daniel Day-Lewis,Daniel Plainview,There Will Be Blood,/wiki/Daniel_Day-Lewis,1957-04-29,,"London, England",,3
+81,2009-02-22,69,Sean Penn,Harvey Milk,Milk,/wiki/Sean_Penn,1960-08-17,,"Santa Monica, California, U.S.",,2
+82,2010-03-07,73,Jeff Bridges,"Otis ""Bad"" Blake",Crazy Heart,/wiki/Jeff_Bridges,1949-12-04,,"Los Angeles, California, U.S.",,3
+83,2011-02-27,74,Colin Firth,King George VI,The King's Speech,/wiki/Colin_Firth,1960-09-10,,"Grayshott, Hampshire, England",,3
+84,2012-02-26,75,Jean Dujardin,George Valentin,The Artist,/wiki/Jean_Dujardin,1972-06-19,,"Rueil-Malmaison, France",,4
+85,2013-02-24,57,Daniel Day-Lewis,Abraham Lincoln,Lincoln,/wiki/Daniel_Day-Lewis,1957-04-29,,"London, England",,3
+86,2014-03-02,76,Matthew McConaughey,Ron Woodroof,Dallas Buyers Club,/wiki/Matthew_McConaughey,1969-11-04,,"Uvalde, Texas, U.S.",,3
+87,2015-02-22,77,Eddie Redmayne,Stephen Hawking,The Theory of Everything,/wiki/Eddie_Redmayne,1982-01-06,,"Westminster, London, England",,2
+88,2016-02-28,78,Leonardo DiCaprio,Hugh Glass,The Revenant,/wiki/Leonardo_DiCaprio,1974-11-11,,"Los Angeles, California, U.S.",,0
+89,2017-02-26,79,Casey Affleck,Lee Chandler,Manchester by the Sea,/wiki/Casey_Affleck,1975-08-12,,"Falmouth, Massachusetts, U.S.",,2
+90,2018-03-04,80,Gary Oldman,Winston Churchill,Darkest Hour,/wiki/Gary_Oldman,1958-03-21,,"London, England",,3
+91,2019-02-24,81,Rami Malek,Freddie Mercury,Bohemian Rhapsody,/wiki/Rami_Malek,1981-05-12,,"Torrance, California, U.S.",,0
+92,2020-02-09,82,Joaquin Phoenix,Arthur Fleck / Joker,Joker,/wiki/Joaquin_Phoenix,1974-10-28,,"San Juan, Puerto Rico",,1
+93,2021-04-25,59,Anthony Hopkins,Anthony,The Father,/wiki/Anthony_Hopkins,1937-12-31,,"Port Talbot, Glamorgan, Wales",,1
+94,2022-03-27,83,Will Smith,Richard Williams,King Richard,/wiki/Will_Smith,1968-09-25,,"Philadelphia, Pennsylvania, U.S.",,3
+95,2023-03-12,84,Brendan Fraser,Charlie,The Whale,/wiki/Brendan_Fraser,1968-12-03,,"Indianapolis, Indiana, U.S.",,3
+96,2024-03-10,85,Cillian Murphy,J. Robert Oppenheimer,Oppenheimer,/wiki/Cillian_Murphy,1976-05-25,,"Cork, Ireland",,2
